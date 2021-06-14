@@ -9,12 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a3a969a130e0578c",
-      "reportUrl" : "https://Mirkics.github.io/cicd-py-example/14//#testresult/a3a969a130e0578c",
+      "uid" : "85815fc73a8d7509",
+      "reportUrl" : "https://Mirkics.github.io/cicd-py-example/15//#testresult/85815fc73a8d7509",
       "status" : "passed",
       "time" : {
-        "start" : 1623611757372,
-        "stop" : 1623611757372,
+        "start" : 1623667630874,
+        "stop" : 1623667630874,
         "duration" : 0
       }
     } ]
@@ -29,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "192d5dc8ceac7e49",
-      "reportUrl" : "https://Mirkics.github.io/cicd-py-example/14//#testresult/192d5dc8ceac7e49",
+      "uid" : "1be31977b775a009",
+      "reportUrl" : "https://Mirkics.github.io/cicd-py-example/15//#testresult/1be31977b775a009",
       "status" : "passed",
       "time" : {
-        "start" : 1623611757369,
-        "stop" : 1623611757369,
+        "start" : 1623667630871,
+        "stop" : 1623667630871,
         "duration" : 0
       }
     } ]
@@ -49,12 +49,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "eb715294e54e320e",
-      "reportUrl" : "https://Mirkics.github.io/cicd-py-example/14//#testresult/eb715294e54e320e",
+      "uid" : "d8b6558e1dd4cbb2",
+      "reportUrl" : "https://Mirkics.github.io/cicd-py-example/15//#testresult/d8b6558e1dd4cbb2",
       "status" : "passed",
       "time" : {
-        "start" : 1623611757359,
-        "stop" : 1623611757359,
+        "start" : 1623667630864,
+        "stop" : 1623667630864,
         "duration" : 0
       }
     } ]
@@ -69,12 +69,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e39c67cb4358fc5b",
-      "reportUrl" : "https://Mirkics.github.io/cicd-py-example/14//#testresult/e39c67cb4358fc5b",
+      "uid" : "cdbeb874e6103b91",
+      "reportUrl" : "https://Mirkics.github.io/cicd-py-example/15//#testresult/cdbeb874e6103b91",
       "status" : "passed",
       "time" : {
-        "start" : 1623611757370,
-        "stop" : 1623611757371,
+        "start" : 1623667630872,
+        "stop" : 1623667630873,
         "duration" : 1
       }
     } ]
